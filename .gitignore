@@ -1,0 +1,21 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore compiled binaries
+Kursach/x64/Debug/
+Kursach/x64/Release/
+
+# Ignore PDB files
+*.pdb
+
+# Ignore IntelliSense files
+.vs/Kursach/v*/
+
+# Ignore ipch folder
+.vs/Kursach/v*/ipch/
+
+# Ignore specific large ipch files
+.vs/Kursach/v17/ipch/14fffbd8d59c2739.ipch
+.vs/Kursach/v17/ipch/e10dba0763a3e644.ipch
+.vs/Kursach/v17/ipch/2c80b7d9628af42d.ipch
+.vs/Kursach/v17/ipch/8bb5d7ce52c94d7d.ipch
